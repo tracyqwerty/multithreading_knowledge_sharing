@@ -23,6 +23,7 @@ Example codes of basic elements's usage.
 * [`semaphore`](examples/5.semaphore.cpp)
 * [`condition variable`](examples/6.condition_variable.cpp)
 * [`std::future & std::primise`](examples/7.future&promise.cpp)
+* [`std::async`](examples/8.async.cpp)
 
 ## Leetcode
 
