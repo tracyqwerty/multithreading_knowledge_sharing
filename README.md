@@ -2,7 +2,7 @@
 
 Here I'd like to cover most basic concepts and usages of multithreading! Powered by ChatGPT4. 
 
-Let's start our journey here.
+Let's start our journey >w<.
 
 ## Trapool
 
@@ -22,6 +22,7 @@ Example codes of basic elements's usage.
 * [`deadlock`](examples/4.deadlock.cpp)
 * [`semaphore`](examples/5.semaphore.cpp)
 * [`condition variable`](examples/6.condition_variable.cpp)
+* [`std::future & std::primise`](examples/7.future&promise.cpp)
 
 ## Leetcode
 
