@@ -25,6 +25,7 @@ Example codes of basic elements's usage.
 * [`std::future & std::primise`](examples/7.future&promise.cpp)
 * [`std::async`](examples/8.async.cpp)
 * [`multithread`](examples/9.multithread.cpp)
+* [`Two-Phase Locking (2PL)`](examples/10.2PL.cpp)
 
 ## Leetcode
 
