@@ -25,7 +25,7 @@ Example codes of basic elements's usage.
 * [`std::future & std::primise`](examples/7.future&promise.cpp)
 * [`std::async`](examples/8.async.cpp)
 * [`multithread`](examples/9.multithread.cpp)
-* [`Two-Phase Locking (2PL)`](examples/10.2PL.cpp)
+* [`Two-Phase Locking (2PL)`](examples/10.two_phase_locking.cpp)
 
 ## Leetcode
 
@@ -48,3 +48,7 @@ Multithread-related leetcode problems.
 ## Reference
 
 https://paul.pub/cpp-concurrency/
+
+https://paul.pub/cpp-memory-model/
+
+https://github.com/progschj/ThreadPool
