@@ -12,6 +12,10 @@ A thread pool implemented in cpp.
 
 * [The producer-consumer (bounded-buffer) problem](trapool/docs/producer&consumer.md)
 
+## Concepts
+
+[`process & thread`](docs/process&thread.md)
+
 ## Examples
 
 Example codes of basic elements's usage.
