@@ -56,3 +56,5 @@ https://paul.pub/cpp-concurrency/
 https://paul.pub/cpp-memory-model/
 
 https://github.com/progschj/ThreadPool
+
+https://github.com/anthonywilliams/ccia_code_samples
